@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "title": "JavaScript Variables",
+        "category": "JavaScript",
+        "difficulty": 1,
+        "duration": 30,
+        "completed": false,
+        "description": "Learn const, let, and basic variable declarations."
+    },
+    {
+        "id": 2,
+        "title": "JavaScript Functions",
+        "category": "JavaScript",
+        "difficulty": 2,
+        "duration": 45,
+        "completed": false,
+        "description": "Practice creating and calling reusable functions."
+    },
+    {
+        "id": 3,
+        "title": "Array Methods",
+        "category": "JavaScript",
+        "difficulty": 3,
+        "duration": 60,
+        "completed": false,
+        "description": "Learn map, filter, reduce, find, and sort."
+    },
+    {
+        "id": 4,
+        "title": "DOM Manipulation",
+        "category": "JavaScript",
+        "difficulty": 3,
+        "duration": 60,
+        "completed": false,
+        "description": "Select elements and update the webpage with JavaScript."
+    },
+    {
+        "id": 5,
+        "title": "JavaScript Events",
+        "category": "JavaScript",
+        "difficulty": 3,
+        "duration": 45,
+        "completed": false,
+        "description": "Practice click, input, change, and submit events."
+    },
+    {
+        "id": 6,
+        "title": "HTML Semantic Elements",
+        "category": "HTML",
+        "difficulty": 1,
+        "duration": 30,
+        "completed": false,
+        "description": "Understand semantic HTML elements and page structure."
+    },
+    {
+        "id": 7,
+        "title": "HTML Forms",
+        "category": "HTML",
+        "difficulty": 2,
+        "duration": 45,
+        "completed": false,
+        "description": "Build forms with inputs, labels, selects, and buttons."
+    },
+    {
+        "id": 8,
+        "title": "CSS Flexbox",
+        "category": "CSS",
+        "difficulty": 2,
+        "duration": 45,
+        "completed": false,
+        "description": "Create flexible layouts using CSS Flexbox."
+    },
+    {
+        "id": 9,
+        "title": "CSS Grid",
+        "category": "CSS",
+        "difficulty": 3,
+        "duration": 60,
+        "completed": false,
+        "description": "Build responsive layouts using CSS Grid."
+    },
+    {
+        "id": 10,
+        "title": "Git Basics",
+        "category": "Git",
+        "difficulty": 2,
+        "duration": 40,
+        "completed": false,
+        "description": "Learn repositories, commits, branches, and basic Git commands."
+    },
+    {
+        "id": 11,
+        "title": "GitHub Workflow",
+        "category": "Git",
+        "difficulty": 3,
+        "duration": 50,
+        "completed": false,
+        "description": "Practice pushing projects and managing repositories on GitHub."
+    },
+    {
+        "id": 12,
+        "title": "Fetch API",
+        "category": "Backend",
+        "difficulty": 4,
+        "duration": 60,
+        "completed": false,
+        "description": "Learn how to request data asynchronously using fetch."
+    },
+    {
+        "id": 13,
+        "title": "Async and Await",
+        "category": "Backend",
+        "difficulty": 4,
+        "duration": 60,
+        "completed": false,
+        "description": "Practice asynchronous JavaScript using async and await."
+    },
+    {
+        "id": 14,
+        "title": "Local Storage",
+        "category": "JavaScript",
+        "difficulty": 3,
+        "duration": 45,
+        "completed": false,
+        "description": "Save and retrieve application data using localStorage."
+    }
+]
